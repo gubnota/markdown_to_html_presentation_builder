@@ -1,0 +1,10 @@
+[jsx]
+factory = "React.createElement"
+runtime = "automatic"
+import-source = "react"
+
+[dev]
+jsx = "automatic"
+
+[build]
+jsx = "automatic"
